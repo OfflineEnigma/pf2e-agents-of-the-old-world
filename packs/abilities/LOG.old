@@ -1,0 +1,5 @@
+2026/01/30-21:10:02.625 3edc Recovering log #75
+2026/01/30-21:10:02.625 3edc Level-0 table #78: started
+2026/01/30-21:10:02.631 3edc Level-0 table #78: 62580 bytes OK
+2026/01/30-21:10:02.638 3edc Delete type=0 #75
+2026/01/30-21:10:02.638 3edc Delete type=3 #73

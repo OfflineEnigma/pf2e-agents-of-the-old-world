@@ -1,0 +1,169 @@
+{
+  "id": "pf2e-agents-of-the-old-world",
+  "title": "PF2e - Agents of the Old World",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "pf2e-animal-companions",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-soldiers-of-the-immortal-war",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Michael Hosp",
+      "email": "enigmahomebrew@gmail.com",
+      "discord": "offlineenigma",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "OfflineEnigma's Homebrew",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Agents of the Old World",
+          "sorting": "a",
+          "packs": [
+            "feats",
+            "subclasses",
+            "spells",
+            "equipment",
+            "companions",
+            "rules",
+            "abilities"
+          ],
+          "folders": [],
+          "color": null
+        }
+      ],
+      "color": null
+    }
+  ],
+  "packs": [
+    {
+      "name": "feats",
+      "label": "Feats",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part3.png",
+      "path": "packs/feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part6.png",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Equipment",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part2.png",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part5.png",
+      "path": "packs/spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "companions",
+      "label": "Companions",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part1.png",
+      "path": "packs/companions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rules",
+      "label": "Rules",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part4.png",
+      "path": "packs/rules",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "abilities",
+      "label": "Abilities",
+      "banner": "modules/pf2e-agents-of-the-old-world/assets/banners/part0.png",
+      "path": "packs/abilities",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "flags": {
+    "pf2e-agents-of-the-old-world": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "aether": "Aether",
+          "saga": {
+            "label": "Saga",
+            "description": "Sagas function similarly to stances, entering them as an action and remaining in them until you get knocked out, you enter a different saga, or you fail to sustain the saga, whichever comes first. You cannot sustain a saga by using the Sustain action; instead, a saga is automatically Sustained the first time each round you Cast or Sustain a spell with the composition trait or damage an enemy with a Strike. This section describes the sagas you can access as a skald. Their entries provide the following information. Sagas can be used out of combat, requiring you to use the Sustain an Effect exploration activity; you perform a composition cantrip to sustain the effect instead of using the Sustain action."
+          }
+        },
+		"weaponTraits": {
+			"werecreature": "Werecreature"
+		}
+      }
+    }
+  },
+  "description": "<p>A foundry module containing everything from the Agents of the Old World supplement.</p>",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
+}
