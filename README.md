@@ -1,5 +1,5 @@
 # pf2e-agents-of-the-old-world
--
+
 Foundry VTT support for Agents of the Old World, a PF2E supplement by OfflineEnigma/Michael Hosp/Me
 
 Module can also be found in the Foundry module browser, or here:
