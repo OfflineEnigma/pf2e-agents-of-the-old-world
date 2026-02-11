@@ -1,5 +1,5 @@
-2026/01/31-15:36:04.410 3ed4 Recovering log #79
-2026/01/31-15:36:04.410 3ed4 Level-0 table #81: started
-2026/01/31-15:36:04.423 3ed4 Level-0 table #81: 1740 bytes OK
-2026/01/31-15:36:04.430 3ed4 Delete type=0 #79
-2026/01/31-15:36:04.431 3ed4 Delete type=3 #77
+2026/02/10-21:06:56.973 8ac Recovering log #84
+2026/02/10-21:06:56.973 8ac Level-0 table #87: started
+2026/02/10-21:06:57.021 8ac Level-0 table #87: 177305 bytes OK
+2026/02/10-21:06:57.027 8ac Delete type=0 #84
+2026/02/10-21:06:57.028 8ac Delete type=3 #83

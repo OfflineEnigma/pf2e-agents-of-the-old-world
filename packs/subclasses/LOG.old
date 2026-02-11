@@ -1,3 +1,5 @@
-2026/01/31-15:36:04.178 2bfc Recovering log #61
-2026/01/31-15:36:04.186 2bfc Delete type=0 #61
-2026/01/31-15:36:04.186 2bfc Delete type=3 #59
+2026/02/10-21:06:56.846 8ac Recovering log #66
+2026/02/10-21:06:56.847 8ac Level-0 table #68: started
+2026/02/10-21:06:56.856 8ac Level-0 table #68: 113592 bytes OK
+2026/02/10-21:06:56.862 8ac Delete type=0 #66
+2026/02/10-21:06:56.863 8ac Delete type=3 #65
